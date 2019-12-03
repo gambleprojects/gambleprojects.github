@@ -349,6 +349,8 @@ button {
   overflow: hidden;
   background-color: white;
   padding: 10px 5px;
+  bottom: 0;
+  position: absolute;
 }
 
 .footer a {
