@@ -1,12 +1,12 @@
 body {
-  background-color: white;
+  background-color: #ffffff;
 }
 
 body {font-family: Arial, Helvetica, sans-serif;}
 
 .button100 {
-  background-color: dodgerblue;
-  color: black;
+  background-color: #1e90ff;
+  color: #000000;
   padding: 14px 20px;
   margin: 8px 0;
   border: none;
@@ -27,13 +27,13 @@ body {
 
 .header {
   overflow: hidden;
-  background-color: white;
+  background-color: #ffffff;
   padding: 10px 5px;
 }
 
 .header a {
   float: left;
-  color: black;
+  color: #000000;
   text-align: center;
   padding: 12px;
   text-decoration: none;
@@ -45,7 +45,7 @@ body {
 .header a.logo {
   font-size: 25px;
   font-weight: bold;
-  color: black;
+  color: #000000;
 }
 
 
@@ -63,14 +63,14 @@ body {
 }
 
 .header a:hover {
-  background-color: darkgray;
-  color: black;
+  background-color: #a9a9a9;
+  color: #000000;
   border-radius: 500px;
 }
 
 .header a.active {
-  background-color: dodgerblue;
-  color: black;
+  background-color: #1e90ff;
+  color: #000000;
   border-radius: 500px;
 }
 
@@ -94,7 +94,7 @@ body {
   color: black;
   font-size: 16px;
   border: none;
-  background-color: dodgerblue;
+  background-color: #1e90ff;
   padding: 14px 20px;
   margin: 8px 0;
   border: none;
@@ -108,7 +108,7 @@ body {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: white;
+  background-color: #ffffff;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
@@ -130,32 +130,32 @@ body {
 
 .pagetitle {
     text-align: center;
-    color: dodgerblue;
+    color: #1e90ff;
     font-size: 300%;
 }
 
 .pagetitle2 {
     text-align: center;
-    color: black;
+    color: #000000;
     font-size: 300%;
 }
 
 .pagetitle3 {
     text-align: center;
-    color: dodgerblue;
+    color: #1e90ff;
     font-size: 200%;
 }
 
 .pagetitle4 {
     text-align: center;
-    color: black;
+    color: #000000;
     font-size: 200%;
 }
 
 
 .center {
     text-align: center;
-    color: black;
+    color: #000000;
 }
 
 .center2 {
@@ -167,35 +167,35 @@ body {
 }
 
 p {
-    color: black;
+    color: #0000000;
 }
 
 li {
-    color: black;
+    color: #0000000;
 }
 
 h1 {
-    color: black;
+    color: #000000;
 }
 
 h2 {
-    color: black;
+    color: #000000;
 }
 
 h3 {
-    color: black;
+    color: #000000;
 }
 
 h4 {
-    color: black;
+    color: #000000;
 }
 
 h5 {
-    color: black;
+    color: #000000;
 }
 
 h6 {
-    color: black;
+    color: #000000;
 }
 
 
@@ -236,31 +236,31 @@ h6 {
 
 .mainheader {
     text-align: center;
-    color: dodgerblue;
+    color: #1e90ff;
 }
 
 .time {
     text-align: center;
-    color: dodgerblue;
+    color: #1e90ff;
     font-size: 300%;
 }
 .big {
     text-align: center;
-    color: dodgerblue;
+    color: #1e90ff;
     font-size: 250%;
     font-weight: 600;
 }
 
 .big2 {
     text-align: center;
-    color: darkgray;
+    color: #a9a9a9;
     font-size: 250%;
     font-weight: 600;
 }
 
 .biger {
     text-align: center;
-    color: dodgerblue;
+    color: #1e90ff;
     font-size: 300%;
     font-weight: 750;
 
@@ -268,7 +268,7 @@ h6 {
 
 .huge {
     text-align: center;
-    color: dodgerblue;
+    color: #1e90ff;
     font-size: 390%;
     font-weight: 1000;
 
@@ -281,9 +281,9 @@ button {
 }
 
 .button0 {
-    background-color: darkgray;
-    border-color: darkgray;
-    color: black;
+    background-color: #a9a9a9;
+    border-color: #a9a9a9;
+    color: #000000;
     border-radius: 500px;
       display: block;
   margin-left: auto;
@@ -292,9 +292,9 @@ button {
 }
 
 .button1 {
-    background-color: dodgerblue;
-    border-color: dodgerblue;
-    color: black;
+    background-color: #1e90ff;
+    border-color: #1e90ff;
+    color: #000000;
     border-radius: 500px;
       display: block;
   margin-left: auto;
@@ -303,9 +303,9 @@ button {
 }
 
 .button2 {
-    background-color: dodgerblue;
-    border-color: dodgerblue;
-    color: black;
+    background-color: #1e90ff;
+    border-color: #1e90ff;
+    color: #000000;
     border-radius: 500px;
       display: block;
   margin-left: auto;
@@ -343,4 +343,13 @@ button {
   100% {
     background-position: 500%;
   }
+}
+
+#footer {
+  left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #ffffff;
+   color: #000000;
+   text-align: center;
 }
