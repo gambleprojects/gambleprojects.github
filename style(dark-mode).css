@@ -345,13 +345,13 @@ button {
   }
 }
 
-.footer {
+#footer {
   overflow: hidden;
   background-color: black;
   padding: 10px 5px;
 }
 
-.footer a {
+#footer a {
   float: left;
   color: white;
   text-align: center;
