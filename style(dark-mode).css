@@ -5,8 +5,8 @@ body {
 body {font-family: Arial, Helvetica, sans-serif;}
 
 .button100 {
-  background-color: dodgerblue;
-  color: white;
+  background-color: #1e90ff;
+  color: #ffffff;
   padding: 14px 20px;
   margin: 8px 0;
   border: none;
@@ -45,7 +45,7 @@ body {
 .header a.logo {
   font-size: 25px;
   font-weight: bold;
-  color: white;
+  color: #ffffff;
 }
 
 
@@ -63,13 +63,13 @@ body {
 }
 
 .header a:hover {
-  background-color: darkgray;
+  background-color: #a9a9a9;
   color: white;
   border-radius: 500px;
 }
 
 .header a.active {
-  background-color: dodgerblue;
+  background-color: #1e90ff;
   color: white;
   border-radius: 500px;
 }
@@ -91,10 +91,10 @@ body {
   }
 }
 .dropbtn {
-  color: white;
+  color: #ffffff;
   font-size: 16px;
   border: none;
-  background-color: dodgerblue;
+  background-color: #1e90ff;
   padding: 14px 20px;
   margin: 8px 0;
   border: none;
@@ -108,7 +108,7 @@ body {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: white;
+  background-color: #ffffff;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
@@ -130,32 +130,32 @@ body {
 
 .pagetitle {
     text-align: center;
-    color: dodgerblue;
+    color: #1e90ff;
     font-size: 300%;
 }
 
 .pagetitle2 {
     text-align: center;
-    color: white;
+    color: #ffffff;
     font-size: 300%;
 }
 
 .pagetitle3 {
     text-align: center;
-    color: dodgerblue;
+    color: #1e90ff;
     font-size: 200%;
 }
 
 .pagetitle4 {
     text-align: center;
-    color: white;
+    color: #ffffff;
     font-size: 200%;
 }
 
 
 .center {
     text-align: center;
-    color: white;
+    color: #ffffff;
 }
 
 .center2 {
@@ -167,35 +167,35 @@ body {
 }
 
 p {
-    color: white;
+    color: #ffffff;
 }
 
 li {
-    color: white;
+    color: #ffffff;
 }
 
 h1 {
-    color: white;
+    color: #ffffff;
 }
 
 h2 {
-    color: white;
+    color: #ffffff;
 }
 
 h3 {
-    color: white;
+    color: #ffffff;
 }
 
 h4 {
-    color: white;
+    color: #ffffff;
 }
 
 h5 {
-    color: white;
+    color: #ffffff;
 }
 
 h6 {
-    color: white;
+    color: #ffffff;
 }
 
 
@@ -236,31 +236,31 @@ h6 {
 
 .mainheader {
     text-align: center;
-    color: dodgerblue;
+    color: #1e90ff;
 }
 
 .time {
     text-align: center;
-    color: dodgerblue;
+    color: #1e90ff;
     font-size: 300%;
 }
 .big {
     text-align: center;
-    color: dodgerblue;
+    color: #1e90ff;
     font-size: 250%;
     font-weight: 600;
 }
 
 .big2 {
     text-align: center;
-    color: darkgray;
+    color: #a9a9a9;
     font-size: 250%;
     font-weight: 600;
 }
 
 .biger {
     text-align: center;
-    color: dodgerblue;
+    color: #1e90ff;
     font-size: 300%;
     font-weight: 750;
 
@@ -268,7 +268,7 @@ h6 {
 
 .huge {
     text-align: center;
-    color: dodgerblue;
+    color: #1e90ff;
     font-size: 390%;
     font-weight: 1000;
 
@@ -281,9 +281,9 @@ button {
 }
 
 .button0 {
-    background-color: darkgray;
-    border-color: darkgray;
-    color: white;
+    background-color: #a9a9a9;
+    border-color: #a9a9a9;
+    color: #ffffff;
     border-radius: 500px;
       display: block;
   margin-left: auto;
@@ -292,9 +292,9 @@ button {
 }
 
 .button1 {
-    background-color: dodgerblue;
-    border-color: dodgerblue;
-    color: white;
+    background-color: #1e90ff;
+    border-color: #1e90ff;
+    color: #ffffff;
     border-radius: 500px;
       display: block;
   margin-left: auto;
@@ -303,9 +303,9 @@ button {
 }
 
 .button2 {
-    background-color: dodgerblue;
-    border-color: dodgerblue;
-    color: white;
+    background-color: #1e90ff;
+    border-color: #1e90ff;
+    color: #ffffff;
     border-radius: 500px;
       display: block;
   margin-left: auto;
@@ -350,6 +350,6 @@ button {
    bottom: 0;
    width: 100%;
    background-color: #000000;
-   color: white;
+   color: #ffffff;
    text-align: center;
 }
