@@ -350,14 +350,3 @@ button {
   background-color: black;
   padding: 10px 5px;
 }
-
-#footer a {
-  float: left;
-  color: white;
-  text-align: center;
-  padding: 12px;
-  text-decoration: none;
-  font-size: 18px;
-  line-height: 25px;
-  border-radius: 4px;
-}
