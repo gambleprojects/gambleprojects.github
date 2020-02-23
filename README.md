@@ -1,6 +1,6 @@
 # gambleprojects.github 
 
-Welcome to Gamble Projects the website designed for giving people exclusive content and for testing code.
+Welcome to the Gamble Projects website! Gamble Projects was created to give the users useful and simple tools to help make there lives better. To view some of the tools visit our website.
 
 
 
